@@ -1,5 +1,9 @@
 # DragNDrop2D
-Техническое задание для Playnera
+<ins>Техническое задание для Playnera</ins>  
+*APK Файл присутствует в Release*
+
+### Видео с игровой механикой:
+https://disk.yandex.ru/i/BICOdzuEUIIu3Q
 
 ### Основные технические моменты:
 
